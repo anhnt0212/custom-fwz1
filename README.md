@@ -1,1 +1,1 @@
-# custom-fwz1
+# fwz1
