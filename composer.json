@@ -7,7 +7,7 @@
         "anhnt0212"
     ],
     "homepage": "https://github.com/anhnt0212/",
-    "license": "MIT License",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.3"
     },
